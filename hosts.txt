@@ -1,0 +1,7 @@
+# OTTAdAway default blocklist
+
+# [sunnxt.com]
+127.0.0.1 in-suntv.videoplaza.tv
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 admanager.google.com
+127.0.0.1 partner.invidi.com
