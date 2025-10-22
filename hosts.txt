@@ -5,3 +5,21 @@
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 admanager.google.com
 127.0.0.1 partner.invidi.com
+
+# [hotstar.com]
+127.0.0.1 hesads.akamaized.net
+127.0.0.1 a1827.dscd.akamai.net
+127.0.0.1 ads.tremorhub.com
+127.0.0.1 hses8.hotstar.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 gcdn.2mdn.net
+
+
+# [akamaized.net]
+127.0.0.1 113vod-adaptive.akamaized.net
+127.0.0.1 appsflyer.com.akamaized.net
+127.0.0.1 jioads.akamaized.net
+127.0.0.1 speee-ad.akamaized.net
+127.0.0.1 statics-marketingsites-eus-ms-com.akamaized.net
+127.0.0.1 statics-marketingsites-neu-ms-com.akamaized.net
+127.0.0.1 hesads.akamaized.net
