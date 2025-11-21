@@ -1,0 +1,33 @@
+! Title: No Instagram & Facebook
+! Description: Completely blocks all Instagram and Facebook related domains.
+! Version: 1.0.0
+! Homepage: https://github.com/custom/no-instagram-facebook
+! Last modified: 2025-11-21
+!
+! Compiled by custom rules
+!
+
+! Instagram Domains
+||instagram.com^
+||www.instagram.com^
+||api.instagram.com^
+||i.instagram.com^
+||cdninstagram.com^
+||scontent.cdninstagram.com^
+||graph.instagram.com^
+
+! Facebook / Meta Domains
+||facebook.com^
+||fbcdn.net^
+||fbcdn.com^
+||connect.facebook.net^
+||b-api.facebook.com^
+||b-graph.facebook.com^
+||edge-mqtt.facebook.com^
+||messaging.instagram.com^
+
+! Optional Wildcards
+||*.instagram.com^
+||*.cdninstagram.com^
+||*.fbcdn.net^
+||*.facebook.com^
