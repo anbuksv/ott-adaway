@@ -12,7 +12,8 @@
 127.0.0.1 ads.tremorhub.com
 127.0.0.1 hses8.hotstar.com
 127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 gcdn.2mdn.net
+127.0.0.1 gcdn.2mdn.net
+127.0.0.1 live-ssai-cf-mum-9.cdn.hotstar.com
 
 
 # [akamaized.net]
