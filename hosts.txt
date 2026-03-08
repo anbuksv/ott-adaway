@@ -14,6 +14,8 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 live-ssai-cf-mum-9.cdn.hotstar.com
+127.0.0.1 bifrost-api.hotstar.com
+127.0.0.1 service.hotstar.com
 
 
 # [akamaized.net]
