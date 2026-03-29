@@ -19,6 +19,7 @@
 127.0.0.1 hf-apix.hotstar.com
 127.0.0.1 e35862.dsct.akamaiedge.net
 
+
 # [akamaized.net]
 127.0.0.1 113vod-adaptive.akamaized.net
 127.0.0.1 appsflyer.com.akamaized.net
