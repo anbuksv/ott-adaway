@@ -15,6 +15,7 @@
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 bifrost-api.hotstar.com
 127.0.0.1 service.hotstar.com
+127.0.0.1 sentry.io
 
 
 # [akamaized.net]
