@@ -16,6 +16,7 @@
 127.0.0.1 bifrost-api.hotstar.com
 127.0.0.1 service.hotstar.com
 127.0.0.1 sentry.io
+127.0.0.1 hf-apix.hotstar.com
 
 
 # [akamaized.net]
